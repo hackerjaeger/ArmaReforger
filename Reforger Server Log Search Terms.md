@@ -42,6 +42,8 @@ Medical:
 
 	Bleed-out Status: "bleed-out"
 
+	Death from Bleed-out: "bleed-out expired"
+
 	Revivals: "revived"
 
 	Player killed:  "serveradmintools_player_killed"
